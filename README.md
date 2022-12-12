@@ -112,8 +112,9 @@ Mainly performed using Matplotlib and Seaborn library and the following graph an
 
 Performed univariate analysis and made following conclusions:
 ``
- 1.) Most popular meal type is BB(Bed and Breakfast).
- 2.) Most of the guests came from european countries, with highest number of guests from Portugal.
+
+1.) Most popular meal type is BB(Bed and Breakfast).
+2.) Most of the guests came from european countries, with highest number of guests from Portugal.
  
 ```
 
