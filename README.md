@@ -123,17 +123,29 @@ Performed univariate analysis and made following conclusions:
 
 We tried to answer following questions
 ```
- 1.) Overall adr of City hotel is slightly higher than Resort hotel and no. of bookings of City hotel is also higher than Resort hotel. Hence, City hotel is makes more revenue.
- 2.) City hotel has slightly higher median lead time. Also median lead time is significantly higher for both hotels, this means customers generally plan their hotel   visits way early.
+
+1.) Overall adr of City hotel is slightly higher than Resort hotel and no. of bookings of City hotel is also higher than Resort hotel. Hence, City hotel is makes more revenue.
+
+2.) City hotel has slightly higher median lead time. Also median lead time is significantly higher for both hotels, this means customers generally plan their hotel   visits way early.
+ 
  3.) Almost 30 % of City Hotel bookings got canceled.
+ 
  4.) Both hotels have very small percentage that customer will repeat, but Resort hotel has slightly higher repeat % than City Hotel.
+ 
  5.) TA/TO is mostly used for planning Hotel visits well ahead of time. 
+ 
  6.) While booking via TA/TO one may have to wait a little longer to confirm booking of rooms.
+ 
  7.) GDS channel brings higher revenue generating deals for City hotel, in contrast to that most bookings come via TA/TO. City Hotel can work to increase outreach on GDS channels to get more higher revenue generating deals.
+ 
  8.) TA/TO has highest booking cancellation %. Therefore, a booking via TA/TO is 30% likely to get cancelled.
+ 
  9.) Longer lead time has no affect on cancellation of bookings.
+ 
  10.) Not getting same room as demanded is not the case of cancellation of rooms. A significant percentage of bookings are not cancelled even after getting different room as demanded.
+ 
  11.) Not getting same room do affects the adr, people who didn't got same room have paid a little lower adr. 
+ 
  12.) Arrivals in hotels increases at weekends and also the avg adr tends to go up as month ends. 
 
 ```
@@ -141,17 +153,29 @@ We tried to answer following questions
 ## Conclusion
 
 ```
+
 (1) Around 60% bookings are for City hotel and 40% bookings are for Resort hotel, therefore City Hotel is busier than Resort hotel. Also the overall adr of City hotel is slightly higher than Resort hotel.
+
 (2) Mostly guests stay for less than 5 days in hotel and for longer stays Resort hotel is preferred.
+
 (3) Most of the guests came from european countries, with most of guests coming from Portugal.
+
 (4) Guests use different channels for making bookings out of which most preferred way is TA/TO.
+
 (5) For hotels higher adr deals come via GDS channel, so hotels should increase their popularity on this channel.
+
 (6) Almost 30% of bookings via TA/TO are cancelled.
+
 (7) Not getting same room as reserved, longer lead time and waiting time do not affect cancellation of bookings. Although different room allotment do lowers the adr.
+
 (8) July- August are the most busier and profitable months for both of hotels. 
+
 (9) For customers, generally the longer stays (more than 15 days) can result in better deals in terms of low adr.
+
 ```
 ## Challenges
 ```
+
 (1) There is a lotof duplicate value.
+
 (2)There presents null value of data.
