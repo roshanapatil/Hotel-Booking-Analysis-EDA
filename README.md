@@ -1,10 +1,10 @@
 # Hotel Bookings Analysis
 
-##Sumarry##
+# Sumarry #
 
 Hotel industry is a very volatile industry and the bookings depend on variety of factors 
 
-#Given Dataset#
+# Given Dataset #
 
 1.  hotel  ----> City hotel and Resort hotel
 
