@@ -73,7 +73,7 @@ Hotel industry is a very volatile industry and the bookings depend on variety of
 
 33. reservation_status_date
 
-# Data cleaning#
+# Data cleaning #
 
 (1) First we Remove The Duplicate Rows
 
@@ -83,7 +83,7 @@ Hotel industry is a very volatile industry and the bookings depend on variety of
 
 4) Adding important columns
 
-# Data Visualization
+# Data Visualization #
 
 We are used the Graph For Visualization Process 
 
