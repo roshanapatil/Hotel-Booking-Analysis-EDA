@@ -75,14 +75,6 @@ Hotel industry is a very volatile industry and the bookings depend on variety of
 
 # Data cleaning #
 
-(1) First we Remove The Duplicate Rows
-
-2) Handling missing values.
-
-3) Convert columns to appropriate datatypes.
-
-4) Adding important columns
-
 # Data Visualization #
 
 We are used the Graph For Visualization Process 
